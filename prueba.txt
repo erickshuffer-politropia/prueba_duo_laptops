@@ -1,0 +1,4 @@
+Archivo de prueba para verificar sincronizacion entre laptops.
+
+Creado: 2026-09-06
+Origen: laptop 1
