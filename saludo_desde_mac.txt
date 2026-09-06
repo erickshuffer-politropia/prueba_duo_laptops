@@ -1,0 +1,11 @@
+Saludo desde MacBook via orquestacion Orca
+==========================================
+
+Hostname:            ericks-MacBook-Pro.local
+Sistema operativo:   macOS 15.7.7 (build 24G720)
+Kernel:              Darwin 24.6.0 x86_64
+Fecha/hora:          2026-09-06 19:43:06 -03 (-0300)
+
+Repo:                prueba_duo_laptops
+Rama:                erickshuffer-politropia/saludo-desde-mac
+Coordinado desde:    PC Windows
